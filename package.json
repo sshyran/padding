@@ -1,0 +1,31 @@
+{
+  "name": "padding.css",
+  "version": "0.0.1",
+  "homepage": "http://github.com/mrmrs/padding",
+  "description": "CSS module for an 8-step padding scale to be used for responsive prototyping in the browser.",
+  "keywords": [
+    "oocss",
+    "css",
+    "rwd",
+    "responsive design",
+    "padding",
+    "spacing",
+    "design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/padding.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/padding/issues"
+  },
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "adam morse", "email": "hi@mrmrs.cc" }
+  ],
+  "license": "MIT"
+}
