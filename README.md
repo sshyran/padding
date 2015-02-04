@@ -1,6 +1,6 @@
 # PADDING
 
-  A mobile-first, eight-step padding scale based on powers of 2. 
+  A mobile-first, eight-step padding scale based on powers of 2.
   Set the desired padding on any combination of sides on any element for any breakpoint.
   Base class names are namespaced across three breakpoints:
 
@@ -15,9 +15,9 @@ npm install padding.css --save-dev
 or download the css on github and include in your project.
 
 ## File Size
-minified & gzipped - 961B 
-padding.min.css - 6.8K 
-padding.css - 9.4K 
+minified & gzipped - 961B
+padding.min.css - 6.8K
+padding.css - 9.4K
 
 ## The Code
 ```
@@ -312,7 +312,7 @@ padding.css - 9.4K
 
 The MIT License (MIT)
 
-Copyright (c) 2014 @mrmrs
+Copyright (c) 2015 @mrmrs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
